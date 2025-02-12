@@ -1,6 +1,3 @@
-# iptv
-tvbox url source
-
 # TVBox自用影视源与iptv源  
 自用，侵删  
 
